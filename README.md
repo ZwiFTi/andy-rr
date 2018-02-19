@@ -10,15 +10,15 @@
 
 ## Description
 
-Organize books the way you always wanted to!
+Reviews over your favourite restaurants
 
 ## Installation
 
 ```
-git clone https://github.com/ZwiFTi/reactproject.git
-cd reactproject
-npm install
-npm start
+git clone https://github.com/ZwiFTi/andy-rr.git
+cd andy-rr
+python3 -m http.server 3000
+visit http://localhost:3000/ in browser
 ```
 
 ## Contributing
